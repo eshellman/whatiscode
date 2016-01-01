@@ -38,7 +38,7 @@ function initInnerShare() {
       // var data = shareData();
       var tweetUrl = "https://twitter.com/share?url=" + encodeURIComponent(fullUrl+"#"+data.name) + "&text=" + encodeURIComponent(data.tweet);
       var opts = that.centerPopup(820, 440) + "scrollbars=1";
-      track("Twitter");
+
       window.open(tweetUrl, 'twitter', opts);
     }
   };

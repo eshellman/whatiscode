@@ -184,7 +184,7 @@ var stats,
       .html(function(d) { return d.childNodes[0].innerText + ". " + d.childNodes[1].nodeValue; })
       .on("click", function(d) {
         d3.event.preventDefault();
-        history.pushState(null, null, '#'+d.id);
+
         stats.windows.previous = stats.windows.current; 
         d3.select("body").transition().duration(500)
           .tween("tocscroll", scrollTopTween(d.getBoundingClientRect().top + pageYOffset));
