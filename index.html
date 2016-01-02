@@ -2793,33 +2793,7 @@ This story has been annotated with corrections. <a href="https://github.com/Bloo
 
   initInnerShare()
 
-  //stick header to top of page
-  var fixedHeader = null
-  var offHeader = pageYOffset > 300
-  d3.select('#full-header').style('top', offHeader ? '-100px' : '0px')
-  d3.select('#toc-toggle').style('opacity', offHeader ? '1' : '0')
-  
-  d3.select(window).on('scroll.sticky', function(){
-    var fixedHeader1 = pageYOffset > 31
-    if (fixedHeader != fixedHeader1){
-      fixedHeader = fixedHeader1
-
-      d3.select('#full-header').classed('stuck', fixedHeader)
-      d3.select('#top-space').classed('stuck', fixedHeader)
-    }
-
-    var offHeader1 = pageYOffset > 300
-    if (offHeader1 != offHeader){
-      offHeader = offHeader1
-      d3.select('#full-header')
-        .transition().duration(500).style('top', offHeader ? '-100px' : '0px')
-      d3.select('#toc-toggle')
-        .transition().duration(500).style('opacity', offHeader ? '1' : '0')
-    }
-
-  });
 </script>
-
 <!-- steph js -->
 <script>
 

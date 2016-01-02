@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="6bfd37a6-03ca-4fe7-9916-07e04a2d5ed8" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="calibre (2.44.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>What is Code?</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>WHAT IS CODE?</text>
+      </navLabel>
+      <content src="index.html#fit"/>
+      <navPoint id="num_2" playOrder="2">
+        <navLabel>
+          <text>1 The Man in the Taupe Blazer</text>
+        </navLabel>
+        <content src="index.html#the-man-in-the-taupe-blazer"/>
+        <navPoint id="num_3" playOrder="3">
+          <navLabel>
+            <text>1.1 Why Are We Here?</text>
+          </navLabel>
+          <content src="index.html#why-are-we-here"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>2 Let’s Begin</text>
+        </navLabel>
+        <content src="index.html#lets-begin"/>
+        <navPoint id="num_5" playOrder="5">
+          <navLabel>
+            <text>2.1 How Do You Type an “A”?</text>
+          </navLabel>
+          <content src="index.html#how-do-you-type-an-a"/>
+        </navPoint>
+        <navPoint id="num_6" playOrder="6">
+          <navLabel>
+            <text>2.2 From Hardware to Software</text>
+          </navLabel>
+          <content src="index.html#from-hardware-to-software"/>
+        </navPoint>
+        <navPoint id="num_7" playOrder="7">
+          <navLabel>
+            <text>2.3 How Does Code Become Software?</text>
+          </navLabel>
+          <content src="index.html#how-does-code-become-software"/>
+        </navPoint>
+        <navPoint id="num_8" playOrder="8">
+          <navLabel>
+            <text>2.4 What Is an Algorithm?</text>
+          </navLabel>
+          <content src="index.html#what-is-an-algorithm"/>
+        </navPoint>
+        <navPoint id="num_9" playOrder="9">
+          <navLabel>
+            <text>2.5 The Sprint</text>
+          </navLabel>
+          <content src="index.html#the-sprint"/>
+        </navPoint>
+        <navPoint id="num_10" playOrder="10">
+          <navLabel>
+            <text>2.6 What’s With All These Conferences, Anyway?</text>
+          </navLabel>
+          <content src="index.html#whats-with-all-these-conferences-anyway"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_11" playOrder="11">
+        <navLabel>
+          <text>3 Why Are Programmers So Intense About Languages?</text>
+        </navLabel>
+        <content src="index.html#why-are-programmers-so-intense-about-languages"/>
+        <navPoint id="num_12" playOrder="12">
+          <navLabel>
+            <text>3.1 The Beauty of the Standard Library</text>
+          </navLabel>
+          <content src="index.html#the-beauty-of-the-standard-library"/>
+        </navPoint>
+        <navPoint id="num_13" playOrder="13">
+          <navLabel>
+            <text>3.2 What Do Different Languages Do?</text>
+          </navLabel>
+          <content src="index.html#what-do-different-languages-do"/>
+        </navPoint>
+        <navPoint id="num_14" playOrder="14">
+          <navLabel>
+            <text>3.3 The Importance of C</text>
+          </navLabel>
+          <content src="index.html#the-importance-of-c"/>
+        </navPoint>
+        <navPoint id="num_15" playOrder="15">
+          <navLabel>
+            <text>3.4 The Corporate Object Revolution</text>
+          </navLabel>
+          <content src="index.html#the-corporate-object-revolution"/>
+        </navPoint>
+        <navPoint id="num_16" playOrder="16">
+          <navLabel>
+            <text>3.5 Look How Big and Weird Things Get With Just Python</text>
+          </navLabel>
+          <content src="index.html#look-how-big-and-weird-things-get-with-just-python"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_17" playOrder="17">
+        <navLabel>
+          <text>4 Why Are Coders Angry?</text>
+        </navLabel>
+        <content src="index.html#why-are-coders-angry"/>
+        <navPoint id="num_18" playOrder="18">
+          <navLabel>
+            <text>4.1 The Legend of the 10x Programmer</text>
+          </navLabel>
+          <content src="index.html#the-legend-of-the-10x-programmer"/>
+        </navPoint>
+        <navPoint id="num_19" playOrder="19">
+          <navLabel>
+            <text>4.2 The Thing About Real Artists Is That They—</text>
+          </navLabel>
+          <content src="index.html#the-thing-about-real-artists-is-that-they"/>
+        </navPoint>
+        <navPoint id="num_20" playOrder="20">
+          <navLabel>
+            <text>4.3 We Still Need to Choose …</text>
+          </navLabel>
+          <content src="index.html#we-still-need-to-choose"/>
+        </navPoint>
+        <navPoint id="num_21" playOrder="21">
+          <navLabel>
+            <text>4.4 Why Are There So Many Languages?</text>
+          </navLabel>
+          <content src="index.html#why-are-there-so-many-languages"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_22" playOrder="22">
+        <navLabel>
+          <text>5 The Time You Attended the E-mail Address Validation Meeting</text>
+        </navLabel>
+        <content src="index.html#the-time-you-attended-the-e-mail-address-validation-meeting"/>
+        <navPoint id="num_23" playOrder="23">
+          <navLabel>
+            <text>5.1 What Is the Relationship Between Code and Data?</text>
+          </navLabel>
+          <content src="index.html#what-is-the-relationship-between-code-and-data"/>
+        </navPoint>
+        <navPoint id="num_24" playOrder="24">
+          <navLabel>
+            <text>5.2 Where Does Data Live?</text>
+          </navLabel>
+          <content src="index.html#where-does-data-live"/>
+        </navPoint>
+        <navPoint id="num_25" playOrder="25">
+          <navLabel>
+            <text>5.3 The Language of White Collars</text>
+          </navLabel>
+          <content src="index.html#the-language-of-white-collars"/>
+        </navPoint>
+        <navPoint id="num_26" playOrder="26">
+          <navLabel>
+            <text>5.4 Briefly on the Huge Subject of Microsoft</text>
+          </navLabel>
+          <content src="index.html#briefly-on-the-huge-subject-of-microsoft"/>
+        </navPoint>
+        <navPoint id="num_27" playOrder="27">
+          <navLabel>
+            <text>5.5 Liquid Infrastructure</text>
+          </navLabel>
+          <content src="index.html#liquid-infrastructure"/>
+        </navPoint>
+        <navPoint id="num_28" playOrder="28">
+          <navLabel>
+            <text>5.6 Off the Shelf</text>
+          </navLabel>
+          <content src="index.html#off-the-shelf"/>
+        </navPoint>
+        <navPoint id="num_29" playOrder="29">
+          <navLabel>
+            <text>5.7 What About JavaScript?</text>
+          </navLabel>
+          <content src="index.html#what-about-javascript"/>
+        </navPoint>
+        <navPoint id="num_30" playOrder="30">
+          <navLabel>
+            <text>5.8 What’s the Absolute Minimum I Must Know About PHP?</text>
+          </navLabel>
+          <content src="index.html#whats-the-absolute-minimum-i-must-know-about-php"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_31" playOrder="31">
+        <navLabel>
+          <text>6 How Are Apps Made?</text>
+        </navLabel>
+        <content src="index.html#how-are-apps-made"/>
+        <navPoint id="num_32" playOrder="32">
+          <navLabel>
+            <text>6.1 The Framework: Wilder, Younger Cousin of the Software Development Kit</text>
+          </navLabel>
+          <content src="index.html#the-framework-wilder-younger-cousin-of-the-software-development-kit"/>
+        </navPoint>
+        <navPoint id="num_33" playOrder="33">
+          <navLabel>
+            <text>6.2 What Is Debugging?</text>
+          </navLabel>
+          <content src="index.html#what-is-debugging"/>
+        </navPoint>
+        <navPoint id="num_34" playOrder="34">
+          <navLabel>
+            <text>6.3 Nothing Is Built</text>
+          </navLabel>
+          <content src="index.html#nothing-is-built"/>
+        </navPoint>
+        <navPoint id="num_35" playOrder="35">
+          <navLabel>
+            <text>6.4 How Does Testing Work?</text>
+          </navLabel>
+          <content src="index.html#how-does-testing-work"/>
+        </navPoint>
+        <navPoint id="num_36" playOrder="36">
+          <navLabel>
+            <text>6.5 And Now for Something Beautiful</text>
+          </navLabel>
+          <content src="index.html#and-now-for-something-beautiful"/>
+        </navPoint>
+      </navPoint>
+      <navPoint id="num_37" playOrder="37">
+        <navLabel>
+          <text>7 The Triumph of Middle Management</text>
+        </navLabel>
+        <content src="index.html#the-triumph-of-middle-management"/>
+        <navPoint id="num_38" playOrder="38">
+          <navLabel>
+            <text>7.1 How Do You Pick a Programming Language?</text>
+          </navLabel>
+          <content src="index.html#how-do-you-pick-a-programming-language"/>
+        </navPoint>
+        <navPoint id="num_39" playOrder="39">
+          <navLabel>
+            <text>7.2 Welcome to the Scrum</text>
+          </navLabel>
+          <content src="index.html#welcome-to-the-scrum"/>
+        </navPoint>
+        <navPoint id="num_40" playOrder="40">
+          <navLabel>
+            <text>7.3 Managing  Programmers</text>
+          </navLabel>
+          <content src="index.html#managing-programmers"/>
+        </navPoint>
+        <navPoint id="num_41" playOrder="41">
+          <navLabel>
+            <text>7.4 “We Are  Going to Ship”</text>
+          </navLabel>
+          <content src="index.html#we-are-going-to-ship"/>
+        </navPoint>
+        <navPoint id="num_42" playOrder="42">
+          <navLabel>
+            <text>7.5 Should You Learn to Code?</text>
+          </navLabel>
+          <content src="index.html#should-you-learn-to-code"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
